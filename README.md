@@ -11,8 +11,6 @@
 - ⚡ Fun fact: I like sports.
 
 
-## Watch snake eating my github contributions 
- 
 
 
  
