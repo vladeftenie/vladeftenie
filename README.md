@@ -34,9 +34,9 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragnarvking&show_icons=true&locale=en&layout=compact" alt="ragnarvking" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnarvking&show_icons=true&locale=en" alt="ragnarvking" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladeftenie&show_icons=true&locale=en" alt="vladeftenie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarvking&" alt="ragnarvking" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladeftenie&" alt="vladeftenie" /></p> -->
 
 
 <!-- br -->
@@ -47,9 +47,9 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=RagnarVKing&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RagnarVKing&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RagnarVKing&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vladeftenie&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vladeftenie&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladeftenie&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=RagnarVKing&icon=0&color=0)](https://visitcount.itsvg.in) -->
@@ -59,8 +59,8 @@
 
 ## Watch snake eating my github contributions 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RagnarVKing/vladeftenie/output/github-snake-dark.svg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RagnarVKing/vladeftenie/output/github-snake.svg" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladeftenie/vladeftenie/output/github-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vladeftenie/vladeftenie/output/github-snake.svg" />
    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefe/output/github-snake.svg" />
  </picture>
 
