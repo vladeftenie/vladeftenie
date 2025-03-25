@@ -19,10 +19,10 @@
 - 🤔 I’m seeking `internships` and challenging opportunities in the tech industry.
 - 🌱 I’m learning AI/ML, Data Structures and Algorithms, Networking, Operating Systems and Arhitectures.
 - 👯 I’m looking to collaborate on innovative projects.
-- 💬 Ask me about everything.
 - 📫 How to reach me:  **eftenieandreivlad@gmail.com**
 - ⚡ Fun fact: I like sports.
 
+<!-- - 💬 Ask me about everything. -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eftenieandreivlad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eftenieandreivlad" height="30" width="40" /></a>
