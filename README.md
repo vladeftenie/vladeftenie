@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://github.com/RagnarVKing/vladeftenie"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;lines=Hi+%2C+welcome+to+my+Github+page;I+am+Vlad Eftenie;I+am+a+Computer+Science+student"></a>
 </p>
-<!-- -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Vlad Eftenie;I+am+a+Computer+Science+Student" />
 </h1>
